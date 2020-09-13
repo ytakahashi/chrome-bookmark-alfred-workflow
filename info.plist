@@ -123,12 +123,12 @@
 	</dict>
 	<key>variables</key>
 	<dict>
-		<key>BOOKMARK_PATH</key>
+		<key>BOOKMARK_FILE_PATH</key>
 		<string></string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array>
-		<string>BOOKMARK_PATH</string>
+		<string>BOOKMARK_FILE_PATH</string>
 	</array>
 	<key>version</key>
 	<string></string>
