@@ -1,7 +1,7 @@
 const alfy = require('alfy')
 const reader = require( 'chrome-bookmark-reader')
 
-const path = process.env.BOOKMARK_PATH;
+const path = process.env.BOOKMARK_PATH
 const data = reader.getChromeBookmark(path)
 
 const mapToItem = (bookmark) => {
